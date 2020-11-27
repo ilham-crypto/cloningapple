@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import AppleIcon from '@material-ui/icons/Apple';
 import SearchIcon from '@material-ui/icons/Search';
 import LocalMallIcon from '@material-ui/icons/LocalMall';
+import * as Mui from '@material-ui/core'
 
 class Home extends Component{
   render(){
